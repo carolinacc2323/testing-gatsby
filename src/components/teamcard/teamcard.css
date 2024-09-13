@@ -1,0 +1,15 @@
+.container-team-card{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
+.card-team{
+    border: 1px solid plum;
+    max-width: 250px;
+    background-color: palevioletred;
+    padding: 5em;
+}
+.card-team-image{
+    width:100%;
+}

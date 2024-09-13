@@ -1,0 +1,10 @@
+.navbartdm{
+    background-color: palevioletred;
+}
+.navbartdm{
+    display: flex;
+}
+.navbartdm li{
+    list-style: none;
+    border-radius: 0;
+}
