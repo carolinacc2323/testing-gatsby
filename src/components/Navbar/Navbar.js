@@ -12,6 +12,7 @@ const Navbar = () => {
                 <li>
                     <Link to ='/Consejo'> Consejo de Administración</Link>
                 </li>
+                
             </ul>
         </nav>
         </>

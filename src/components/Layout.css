@@ -1,10 +1,19 @@
 .navbartdm{
-    background-color: palevioletred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 120%;
 }
-.navbartdm{
+.navbartdm ul{
     display: flex;
+    flex-wrap: wrap;
+    gap: .5em;
 }
 .navbartdm li{
     list-style: none;
-    border-radius: 0;
+    border-radius: 0 0 12px 12px;
+    background-color: cornflowerblue;
+    padding: .5em;
 }
+.navbartdm a{
+    color: black;
+    text-decoration: none;
+}  
